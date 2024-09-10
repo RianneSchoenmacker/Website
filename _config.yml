@@ -1,14 +1,14 @@
 # Site settings
 title: Rianne Schoenmacker
-email: your-email@domain.com
+email: info@rianneschoenmacker.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Welcome to the portfolio of Rianne Schoenmacker, where textiles and technology converge to create innovative, 
+  interactive art. My work focuses on pushing the boundaries of traditional textile design. Each project explores
+  the relationship between touch, light, and texture, creating immersive, dynamic experiences.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://rianneschoenmacker.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  rianneschoenmacker
+instagram_username:  rianne.schoenmacker
 
 # Build settings
 markdown: kramdown

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hello world"
+title:  "Bedraden Draden"
 date:   2015-10-06 15:39:40
 preview: "../images/test.jpg"
 ---
