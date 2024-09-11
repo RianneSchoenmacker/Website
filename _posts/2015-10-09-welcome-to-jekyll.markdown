@@ -5,11 +5,7 @@ date:   2015-10-09 15:39:40
 preview: "../imagesgroteruimte/alleenmetlicht.jpg"
 ---
 
-
-
 I felt so small and confined in a space called the world but, giving up is not an option.
-
-
 
 Now follows a Dutch poem:
 
@@ -26,14 +22,14 @@ het dooft.
 -
 -Rianne Schoenmacker
 
-![Picture 1](../../../../images/imagesgroteruimte/lichtdraai.jpg)
+![Picture 1](../../../../imagesgroteruimte/lichtdraai.jpg)
 
-![Picture 1](../../../../images/imagesgroteruimte/lichtwitrood.jpg)
+![Picture 1](../../../../imagesgroteruimte/lichtwitrood.jpg)
 
-![Picture 1](../../../../images/imagesgroteruimte/lichtgroen.jpg)
+![Picture 1](../../../../imagesgroteruimte/lichtgroen.jpg)
 
-![Picture 1](../../../../images/imagesgroteruimte/lichtroodwit.jpg)
+![Picture 1](../../../../imagesgroteruimte/lichtroodwit.jpg)
 
-![Picture 1](../../../../images/imagesgroteruimte/lichtstip.jpg)
+![Picture 1](../../../../imagesgroteruimte/lichtstip.jpg)
 
-![Picture 1](../../../../images/imagesgroteruimte/lichtwit.jpg)
+![Picture 1](../../../../imagesgroteruimte/lichtwit.jpg)

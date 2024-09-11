@@ -11,7 +11,7 @@ Everyone faces difficult moments in life—what I call “black shadows.” To r
 
 You light the ball on fire. As it burns, it slowly turns black and gray, symbolizing your shadow. When the ball is fully consumed, it crumbles and disappears. At that moment, you’ve taken a break from your shadow, and it’s time for you to add light. The colors from the paper are now yours to use as a reminder of that transformation.
 
-![Picture 1](../../../../imagesademinademuit/adem1.jpg)
+![Picture 1](../../../../images/imagesademinademuit/adem1.jpg)
 
 Text on the side:
 
@@ -21,12 +21,12 @@ Text on the bottom:
 
 Red, yellow, and orange are the colors of the flame that slowly burns away your shadow. The warmth brings comfort and safety, helping you take the next step in your journey and continue where you left off. The colors from the paper are now yours, replacing the blackness with light. Take a deep breath in, then exhale. As you breathe out, the last remnants of darkness blow away, leaving you ready to move forward.
 
-![Picture 1](../../../../imagesademinademuit/adem2.jpg)
+![Picture 1](../../../../images/imagesademinademuit/adem2.jpg)
 
-![Picture 1](../../../../imagesademinademuit/adem3.jpg)
+![Picture 1](../../../../images/imagesademinademuit/adem3.jpg)
 
-![Picture 1](../../../../imagesademinademuit/adem4.jpg)
+![Picture 1](../../../../images/imagesademinademuit/adem4.jpg)
 
-![Picture 1](../../../../imagesademinademuit/adem5.jpg)
+![Picture 1](../../../../images/imagesademinademuit/adem5.jpg)
 
-![Picture 1](../../../../imagesademinademuit/adem6.jpg)
+![Picture 1](../../../../images/imagesademinademuit/adem6.jpg)
