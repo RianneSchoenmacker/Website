@@ -6,7 +6,7 @@ preview: "../imagesbedradendraden2/Bedradendradendigitaal.png"
 ---
 
 
-Digital Innovation: Bedraden Draden 2.0
+<h1>Digital Innovation: Bedraden Draden 2.0</h1>
 
 In the next phase of my project, "Bedraden Draden 2.0," I focused on creating a precise 1:1 replica of the original rug, maintaining all its functions in the digital version. While the physical rug provides a tactile experience, digitizing it opened up new possibilities for interaction and design.
 
