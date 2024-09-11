@@ -13,11 +13,14 @@ This journey began with a series of experiments and research, where I explored c
 
 ![Picture 1](../../../../imagesbedradendraden/kleedvoorb.jpg) 
 
-The Night Sea
+<h1 The Night Sea
 
 The rug is tufted with light blue, dark blue, and black wool, carefully shorn to evoke the depth and mysticism of the night sea. The colors reflect the changing depths of water, while the texture of the tufted rug creates a serene, calm water surface. As you touch the rug, a magical interaction unfolds, inspired by the bioluminescence of sea sparkle. Just as sea sparkle illuminates when disturbed, this rug responds to your touch.
 
 Feel the fibers and experience the enchantment as light follows your movement, mimicking the delicate dance of sea sparkle across the night sea.
+
+ ![Picture 1](../../../../imagesbedradendraden/kleedachterb.jpg)
+
 
 ~
 Tufting is a textile craft where yarn is pulled through fabric using a tufting gun to create a carpet. ("What is tufting? - Tuftlab, Amsterdam")
@@ -26,3 +29,4 @@ Tufting is a textile craft where yarn is pulled through fabric using a tufting g
 I am incredibly proud of this work. It is more than just a rug with lights; it is a creative expression that offers a full sensory experience. It invites you to pause, admire, and reflect—a moment of calm in the midst of the hectic everyday. For me, this project represents the end of one chapter in my journey and opens the door to new adventures ahead.
 
 
+![Picture 1](../../../../imagesbedradendraden/kleedblicht.jpg)
