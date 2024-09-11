@@ -2,14 +2,14 @@
 layout: post
 title:  "Opgesloten in zo'n grote ruimte"
 date:   2015-10-09 15:39:40
-preview: "../imagesgroteruimte/lichtdraai.jpg"
+preview: "../imagesgroteruimte/alleenmetlicht.jpg"
 ---
 
 
 
 I felt so small and confined in a space called the world but, giving up is not an option.
 
-![Picture 1](../../../../images/imagesgroteruimte/alleenmetlicht.jpg)
+
 
 Now follows a Dutch poem:
 
@@ -25,6 +25,8 @@ misschien toch een wereld die niet wil dat je
 het dooft.
 -
 -Rianne Schoenmacker
+
+![Picture 1](../../../../images/imagesgroteruimte/lichtdraai.jpg)
 
 ![Picture 1](../../../../images/imagesgroteruimte/lichtwitrood.jpg)
 
