@@ -2,7 +2,7 @@
 layout: post
 title:  "Opgesloten in zo'n grote ruimte"
 date:   2015-10-09 15:39:40
-preview: "../imagesgroteruimte/licht6.jpg"
+preview: "../imagesgroteruimte/lichtdraai.jpg"
 ---
 
 
@@ -26,12 +26,12 @@ het dooft.
 -
 -Rianne Schoenmacker
 
-![Picture 1](../../../../imagesgroteruimte/licht1.jpg)
+![Picture 1](../../../../imagesgroteruimte/lichtwitrood.jpg)
 
-![Picture 1](../../../../imagesgroteruimte/licht2.jpg)
+![Picture 1](../../../../imagesgroteruimte/lichtgroen.jpg)
 
-![Picture 1](../../../../imagesgroteruimte/licht3.jpg)
+![Picture 1](../../../../imagesgroteruimte/lichtroodwit.jpg)
 
-![Picture 1](../../../../imagesgroteruimte/licht4.jpg)
+![Picture 1](../../../../imagesgroteruimte/lichtstip.jpg)
 
-![Picture 1](../../../../imagesgroteruimte/licht5.jpg)
+![Picture 1](../../../../imagesgroteruimte/lichtwit.jpg)
