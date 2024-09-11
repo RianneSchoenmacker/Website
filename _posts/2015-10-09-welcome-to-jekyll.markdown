@@ -26,12 +26,3 @@ het dooft.
 -
 -Rianne Schoenmacker
 
-![Picture 1](../../../../imagesgroteruimte/lichtwitrood.jpg)
-
-![Picture 1](../../../../imagesgroteruimte/lichtgroen.jpg)
-
-![Picture 1](../../../../imagesgroteruimte/lichtroodwit.jpg)
-
-![Picture 1](../../../../imagesgroteruimte/lichtstip.jpg)
-
-![Picture 1](../../../../imagesgroteruimte/lichtwit.jpg)
