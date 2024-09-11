@@ -2,7 +2,7 @@
 layout: post
 title:  "Opgesloten in zo'n grote ruimte"
 date:   2015-10-09 15:39:40
-preview: "../images/imagesgroteruimte/alleenmetlicht.jpg"
+preview: "../images/groteruimte/alleenmetlicht.jpg"
 ---
 
 I felt so small and confined in a space called the world but, giving up is not an option.
@@ -22,14 +22,14 @@ het dooft.
 -
 -Rianne Schoenmacker
 
-![Picture 1](../../../../images/imagesgroteruimte/licht1.jpg)
+![Picture 1](../../../../images/groteruimte/licht1.jpg)
 
-![Picture 1](../../../../images/imagesgroteruimte/licht2.jpg)
+![Picture 1](../../../../images/groteruimte/licht2.jpg)
 
-![Picture 1](../../../../images/imagesgroteruimte/licht3.jpg)
+![Picture 1](../../../../images/groteruimte/licht3.jpg)
 
-![Picture 1](../../../../images/imagesgroteruimte/licht4.jpg)
+![Picture 1](../../../../images/groteruimte/licht4.jpg)
 
-![Picture 1](../../../../images/imagesgroteruimte/licht5.jpg)
+![Picture 1](../../../../images/groteruimte/licht5.jpg)
 
-![Picture 1](../../../../images/imagesgroteruimte/licht6.jpg)
+![Picture 1](../../../../images/groteruimte/licht6.jpg)
