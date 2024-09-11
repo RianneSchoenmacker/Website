@@ -2,7 +2,7 @@
 layout: post
 title:  "Opgesloten in zo'n grote ruimte"
 date:   2015-10-09 15:39:40
-preview: ../imagesgroteruimte/licht6.jpg"
+preview: "../imagesgroteruimte/licht6.jpg"
 ---
 
 
