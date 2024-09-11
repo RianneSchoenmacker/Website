@@ -9,7 +9,7 @@ preview: "../imagesgroteruimte/lichtdraai.jpg"
 
 I felt so small and confined in a space called the world but, giving up is not an option.
 
-![Picture 1](../../../../imagesgroteruimte/alleenmetlicht.jpg)
+![Picture 1](../../../../images/imagesgroteruimte/alleenmetlicht.jpg)
 
 Now follows a Dutch poem:
 
