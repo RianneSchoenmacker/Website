@@ -13,7 +13,7 @@ This journey began with a series of experiments and research, where I explored c
 
 ![Picture 1](../../../../imagesbedradendraden/kleedvoorb.jpg) 
 
-<h1 The Night Sea
+<h1>The Night Sea</h1>
 
 The rug is tufted with light blue, dark blue, and black wool, carefully shorn to evoke the depth and mysticism of the night sea. The colors reflect the changing depths of water, while the texture of the tufted rug creates a serene, calm water surface. As you touch the rug, a magical interaction unfolds, inspired by the bioluminescence of sea sparkle. Just as sea sparkle illuminates when disturbed, this rug responds to your touch.
 
