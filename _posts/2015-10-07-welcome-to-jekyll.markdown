@@ -2,7 +2,7 @@
 layout: post
 title:  "Bedraden Draden 2.0"
 date:   2015-10-07 15:39:40
-preview: "../bedradendraden2/Bedradendradendigitaal.png"
+preview: "images/bedradendraden2/Bedradendradendigitaal.png"
 ---
 
 

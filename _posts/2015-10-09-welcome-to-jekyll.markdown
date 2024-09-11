@@ -2,7 +2,7 @@
 layout: post
 title:  "Opgesloten in zo'n grote ruimte"
 date:   2015-10-09 15:39:40
-preview: "../groteruimte/alleenmetlicht.jpg"
+preview: "images/groteruimte/alleenmetlicht.jpg"
 ---
 
 I felt so small and confined in a space called the world but, giving up is not an option.

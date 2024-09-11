@@ -2,7 +2,7 @@
 layout: post
 title:  "Bedraden Draden"
 date:   2015-10-06 15:39:40
-preview: "../bedradendraden/kleedvoorb.jpg"
+preview: "inages/bedradendraden/kleedvoorb.jpg"
 ---
 
 

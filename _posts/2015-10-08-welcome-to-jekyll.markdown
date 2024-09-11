@@ -2,7 +2,7 @@
 layout: post
 title:  "Adem in. Adem uit."
 date:   2015-10-08 15:39:40
-preview: "../ademinademuit/adem4.jpg"
+preview: "images/ademinademuit/adem4.jpg"
 ---
 
 
