@@ -19,4 +19,4 @@ Through this process, I’ve created a digital version of the rug that mirrors t
 ![Picture 1](../../../../imagesbedradendraden2/Bedradendradendigitaal.png) 
 
 Find the digital project here:
-[link text](https://my.spline.design/untitled-830011f998efa79f126a02821e0ba6ba/)
+[Bedraden Draden 2.0](https://my.spline.design/untitled-830011f998efa79f126a02821e0ba6ba/)
