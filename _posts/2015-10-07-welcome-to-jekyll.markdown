@@ -2,7 +2,7 @@
 layout: post
 title:  "Bedraden Draden 2.0"
 date:   2015-10-07 15:39:40
-preview: "../imagesbedradendraden2/Bedradendradendigitaal.png"
+preview: "../images/imagesbedradendraden2/Bedradendradendigitaal.png"
 ---
 
 
@@ -16,7 +16,7 @@ I also utilized Spline to further expand the rug's interactive features, such as
 
 Through this process, I’ve created a digital version of the rug that mirrors the physical one, achieving a seamless transition between the two realms. However, this journey has also taught me that while the digital environment offers new possibilities, the presence of a screen inevitably creates a greater distance between the user and the work.
 
-![Picture 1](../../../../imagesbedradendraden2/Bedradendradendigitaal.png) 
+![Picture 1](../../../../images/imagesbedradendraden2/Bedradendradendigitaal.png) 
 
 Find the digital project here:
 [Bedraden Draden 2.0](https://my.spline.design/untitled-830011f998efa79f126a02821e0ba6ba/)

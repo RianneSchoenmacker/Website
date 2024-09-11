@@ -22,14 +22,14 @@ het dooft.
 -
 -Rianne Schoenmacker
 
-![Picture 1](../../../../images/imagesgroteruimte/lichtdraai.jpg)
+![Picture 1](../../../../images/imagesgroteruimte/licht1.jpg)
 
-![Picture 1](../../../../images/imagesgroteruimte/lichtwitrood.jpg)
+![Picture 1](../../../../images/imagesgroteruimte/licht2.jpg)
 
-![Picture 1](../../../../images/imagesgroteruimte/lichtgroen.jpg)
+![Picture 1](../../../../images/imagesgroteruimte/licht3.jpg)
 
-![Picture 1](../../../../images/imagesgroteruimte/lichtroodwit.jpg)
+![Picture 1](../../../../images/imagesgroteruimte/licht4.jpg)
 
-![Picture 1](../../../../images/imagesgroteruimte/lichtstip.jpg)
+![Picture 1](../../../../images/imagesgroteruimte/licht5.jpg)
 
-![Picture 1](../../../../images/imagesgroteruimte/lichtwit.jpg)
+![Picture 1](../../../../images/imagesgroteruimte/licht6.jpg)
